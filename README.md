@@ -1,2 +1,2 @@
-# Tirapakkaus
-Tiralabra - Pakkaus
+# Tiralabra - pakkaus
+Tiralabran projekti
